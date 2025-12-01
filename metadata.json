@@ -1,0 +1,5 @@
+{
+  "name": "iJota Simulador de Renda",
+  "description": "Simulador de renda financeira com cálculo de retiradas mensais, juros compostos e visualização gráfica.",
+  "requestFramePermissions": []
+}
