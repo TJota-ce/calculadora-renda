@@ -98,7 +98,7 @@ const App: React.FC = () => {
             <div className="flex items-center gap-2 border-b border-slate-100 pb-4 mb-6">
               <Calculator className="w-5 h-5 text-blue-600" />
               <h2 className="text-lg font-bold text-slate-800">
-                Dados da Simulação
+                Calculadora de Renda
               </h2>
             </div>
             
